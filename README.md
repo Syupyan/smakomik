@@ -1,16 +1,29 @@
-# smaperpus
+<p align="center"></p>
 
-A new Flutter project.
+<h1 align="center">
+   <a  target="_blank" align="center">
+      SMAKOMIK Service
+   </a>
+</h1>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+[![Golang](https://img.shields.io/badge/Golang-v1.19-blue)](https://golang.org/doc/go1.19) [![Fiber](https://img.shields.io/badge/Fiber-v2.21-green)](https://docs.gofiber.io/guide/v2) [![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.3-purple)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<kbd>[![BIMA POLITALA](https://imgur.com/6IC0s64.png)](https://imgur.com/6IC0s64.png)</kbd>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pengenalan 📚
+
+Aplikasi Smakomik Service adalah platform yang digunakan untuk mengelola komik. Pada gambar Anda dapat melihat tampilan antarmuka dari Smakomik Service. Aplikasi ini dibangun menggunakan bahasa pemrograman Golang dengan framework Fiber untuk backend dan Bootstrap untuk antarmuka pengguna (frontend).
+
+### Fitur Utama:
+- **Informasi Komik**: Menampilkan detail komik termasuk judul, genre, negara asal, nama artis komik, batas usia, dan cara membaca.
+- **Pengelolaan Chapter**: Memungkinkan admin untuk menambah, mengedit, atau menghapus chapter komik.
+- **Deskripsi Komik**: Menyediakan bagian untuk memasukkan deskripsi komik yang lebih mendalam.
+- **Edit dan Hapus**: Admin dapat mengedit informasi komik atau menghapusnya jika diperlukan.
+- **Pengelolaan Gambar**: Admin dapat mengunggah atau mengedit gambar sampul komik.
+- **Detail Chapter**: Admin dapat melihat dan mengelola chapter yang ada di komik tersebut.
+
+### Teknologi yang Digunakan:
+- **Backend**: Golang dengan Fiber framework.
+- **Frontend**: Bootstrap untuk membuat antarmuka yang responsif dan user-friendly.
