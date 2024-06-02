@@ -2,28 +2,24 @@
 
 <h1 align="center">
    <a  target="_blank" align="center">
-      SMAKOMIK Service
+      SMAKOMIK
    </a>
 </h1>
 
 
-[![Golang](https://img.shields.io/badge/Golang-v1.19-blue)](https://golang.org/doc/go1.19) [![Fiber](https://img.shields.io/badge/Fiber-v2.21-green)](https://docs.gofiber.io/guide/v2) [![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.3-purple)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+[![Flutter](https://img.shields.io/badge/Flutter-v3.10-blue)](https://docs.flutter.dev/whats-new) [![Dart](https://img.shields.io/badge/Dart-v2.19-green)](https://dart.dev/guides/whats-new)
 
 
-<kbd>[![BIMA POLITALA](https://imgur.com/6IC0s64.png)](https://imgur.com/6IC0s64.png)</kbd>
+<kbd>[![SMAKOMIK](https://imgur.com/5ddE5fu.png)](https://imgur.com/5ddE5fu.png)</kbd>
 
 ## Pengenalan 📚
 
-Aplikasi Smakomik Service adalah platform yang digunakan untuk mengelola komik. Pada gambar Anda dapat melihat tampilan antarmuka dari Smakomik Service. Aplikasi ini dibangun menggunakan bahasa pemrograman Golang dengan framework Fiber untuk backend dan Bootstrap untuk antarmuka pengguna (frontend).
+Aplikasi Smakomik adalah platform bagian pengguna untuk membaca komik yang terse. Aplikasi ini dibangun menggunakan Flutter.
 
 ### Fitur Utama:
-- **Informasi Komik**: Menampilkan detail komik termasuk judul, genre, negara asal, nama artis komik, batas usia, dan cara membaca.
-- **Pengelolaan Chapter**: Memungkinkan admin untuk menambah, mengedit, atau menghapus chapter komik.
-- **Deskripsi Komik**: Menyediakan bagian untuk memasukkan deskripsi komik yang lebih mendalam.
-- **Edit dan Hapus**: Admin dapat mengedit informasi komik atau menghapusnya jika diperlukan.
-- **Pengelolaan Gambar**: Admin dapat mengunggah atau mengedit gambar sampul komik.
-- **Detail Chapter**: Admin dapat melihat dan mengelola chapter yang ada di komik tersebut.
+- **Katalog Komik:** Menyediakan berbagai kategori komik seperti Horror, Adventure, dan Romance.
+- **Pencarian:** Fitur pencarian untuk memudahkan pengguna menemukan komik yang mereka inginkan.
+- **Informasi dan Notifikasi:** Bagian informasi yang memberikan pengumuman penting, seperti jadwal maintenance aplikasi.
 
 ### Teknologi yang Digunakan:
-- **Backend**: Golang dengan Fiber framework.
-- **Frontend**: Bootstrap untuk membuat antarmuka yang responsif dan user-friendly.
+- **Frontend:** Flutter untuk antarmuka pengguna yang dapat berjalan di platform iOS dan Android.
